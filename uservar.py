@@ -98,9 +98,9 @@ AUTOINSTALL = 'Yes'
 # Addon ID for the repository
 REPOID = 'repository.jayswizard'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = 'https://github.com/jaycassini/test/blob/master/addon.xml'
+REPOADDONXML = 'https://github.com/jaycassini//blob/master/addon.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'https://github.com/jaycassini/test.git'
+REPOZIPURL = 'https://github.com/jaycassini/plugin.program.jayswizard'
 #########################################################
 
 #########################################################
@@ -114,7 +114,7 @@ NOTIFICATION = 'http://'
 HEADERTYPE = 'Text'
 # Font size of header
 FONTHEADER = 'Font14'
-HEADERMESSAGE = '[COLOR darkred][B]Jay's[/B][/COLOR]Wizard'
+HEADERMESSAGE = '[COLOR darkred][B]Jays[/B][/COLOR]Wizard'
 # url to image if using Image 424x180
 HEADERIMAGE = 'http://'
 # Font for Notification Window

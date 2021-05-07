@@ -1,9 +1,9 @@
 id="plugin.program.jayswizard"
-version="1.0.0"
-zip="https://github.com/jaycassini/test/archive/refs/heads/master.zip"
+version="0.0.1"
+zip="https://github.com/jaycassini/plugin.program.jayswizard.git"
 
 name="Jay's build"
-version="1.0"
+version="0.1"
 url="https://archive.org/download/testbuild_guisettings/testbuild.zip"
 minor="http://"
 gui="https://archive.org/download/testbuild_guisettings/testbuild_guisettings.zip"

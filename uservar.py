@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR darkred][B]Jay's[/B][/COLOR]Wizard'
 BUILDERNAME = 'jaysWizard'
 EXCLUDES = [ADDON_ID, 'repository.jayswizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'http://'
+BUILDFILE = 'https://github.com/jaycassini/test/blob/061049e237fdad8c6c0de70178d57699af6b1686/resources/text/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 14

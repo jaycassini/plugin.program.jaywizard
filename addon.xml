@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.jayswizard" name="[COLOR darkred]Jay's[/COLOR]Wizard" version="1.0.0" provider-name="jay">
+<addon id="plugin.program.jayswizard" name="[COLOR darkred]Jays[/COLOR]Wizard" version="0.0.1" provider-name="jaycassini">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" />
@@ -15,11 +15,11 @@
     <extension point="xbmc.service" library="startup.py" start="startup" />
     
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">[COLOR darkred]Jay's[/COLOR]Wizard</summary>
-        <description lang="en">[COLOR darkred]Jay's[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
+        <summary lang="en">[COLOR darkred]Jays[/COLOR]Wizard</summary>
+        <description lang="en">[COLOR darkred]Jays[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://www.github.com/drinfernoo/plugin.program.openwizard/</source>
+        <source>https://www.github.com/jaycassini/plugin.program.jayswizard/</source>
         <news>
 1.4.9
  - Fix Error Related to Log

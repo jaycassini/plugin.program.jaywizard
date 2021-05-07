@@ -13,11 +13,11 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 #        User Edit Variables                            #
 #########################################################
-ADDONTITLE = '[COLOR darkred][B]Jay's[/B][/COLOR]Wizard'
-BUILDERNAME = 'jaysWizard'
+ADDONTITLE = '[COLOR darkred][B]Jays[/B][/COLOR]Wizard'
+BUILDERNAME = 'jayswizard'
 EXCLUDES = [ADDON_ID, 'repository.jayswizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://github.com/jaycassini/test/blob/061049e237fdad8c6c0de70178d57699af6b1686/resources/text/builds.txt'
+BUILDFILE = 'https://github.com/jaycassini/plugin.program.jayswizard/blob/master/resources/text/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 14
@@ -63,7 +63,7 @@ SPACER = '='
 COLOR1 = 'darkred'
 COLOR2 = 'white'
 # Primary menu items   / {0} is the menu item and is required
-THEME1 = u'[COLOR {color1}][I]([COLOR {color1}][B]Jay's[/B][/COLOR][COLOR {color2}]Wizard[COLOR {color1}])[/I][/COLOR] [COLOR {color2}]{{}}[/COLOR]'.format(color1=COLOR1, color2=COLOR2)
+THEME1 = u'[COLOR {color1}][I]([COLOR {color1}][B]Jays[/B][/COLOR][COLOR {color2}]Wizard[COLOR {color1}])[/I][/COLOR] [COLOR {color2}]{{}}[/COLOR]'.format(color1=COLOR1, color2=COLOR2)
 # Build Names          / {0} is the menu item and is required
 THEME2 = u'[COLOR {color1}]{{}}[/COLOR]'.format(color1=COLOR1)
 # Alternate items      / {0} is the menu item and is required

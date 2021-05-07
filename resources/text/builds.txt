@@ -1,5 +1,5 @@
-id="plugin.program.aftermath"
-version="0.4.5"
+id="plugin.program.jayswizard"
+version="1.0.0"
 zip="url.to.wizard"
 
 name="Example Build 1"
